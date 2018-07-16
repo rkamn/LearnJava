@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="384b08a4-e7e6-4cea-8ff8-b7fa90143a31" name="Default" comment="Unused variable removal">
+    <list default="true" id="384b08a4-e7e6-4cea-8ff8-b7fa90143a31" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wipro/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wipro/Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wipro/ArrangeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wipro/ArrangeArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wipro/Between.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wipro/Between.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wipro/Listmaxmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wipro/Listmaxmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wipro/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wipro/Swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrangeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrangeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Between.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Between.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Listmaxmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Listmaxmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,13 +66,25 @@
       <file leaf-file-name="Array01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="77" selection-start-line="1" selection-start-column="77" selection-end-line="1" selection-end-column="77" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayRange.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Add.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Add.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -111,8 +113,9 @@
         <option value="$PROJECT_DIR$/src/Listmaxmin.java" />
         <option value="$PROJECT_DIR$/src/Swap.java" />
         <option value="$PROJECT_DIR$/src/Add.java" />
-        <option value="$PROJECT_DIR$/src/Array01.java" />
         <option value="$PROJECT_DIR$/src/Between.java" />
+        <option value="$PROJECT_DIR$/src/Array01.java" />
+        <option value="$PROJECT_DIR$/src/ArrayRange.java" />
       </list>
     </option>
   </component>
@@ -163,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Add">
+  <component name="RunManager" selected="Application.ArrayRange">
     <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Add" />
       <module name="Wipro" />
@@ -174,8 +177,8 @@
       <module name="Wipro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Between" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Between" />
+    <configuration name="ArrayRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayRange" />
       <module name="Wipro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -232,18 +235,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Swap" />
-      <item itemvalue="Application.Between" />
       <item itemvalue="Application.Listmaxmin" />
       <item itemvalue="Application.Array01" />
       <item itemvalue="Application.Add" />
+      <item itemvalue="Application.ArrayRange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Add" />
+        <item itemvalue="Application.ArrayRange" />
         <item itemvalue="Application.Array01" />
+        <item itemvalue="Application.Add" />
         <item itemvalue="Application.Swap" />
         <item itemvalue="Application.Listmaxmin" />
-        <item itemvalue="Application.Between" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531676767349</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Unused variable removal">
+      <created>1531767847065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531767847066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -355,6 +365,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -491,17 +504,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="77" selection-start-line="1" selection-start-column="77" selection-end-line="1" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
