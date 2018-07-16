@@ -1,3 +1,7 @@
+/**
+ * Find maximum and minimum from a list.
+ */
+
 public class Listmaxmin {
 
     public static void main(String[] args) {

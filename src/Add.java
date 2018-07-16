@@ -1,3 +1,7 @@
+/**
+ * Addition of two numbers with using '+' operator.
+ */
+
 public class Add {
     public static void main(String[] args) {
         int a,b,c;

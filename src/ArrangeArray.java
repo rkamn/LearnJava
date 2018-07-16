@@ -1,3 +1,8 @@
+/**
+ *  Arrange array from : 12, -9, 3, -18, 15, 6
+ *  to : -9, -18, 12, 3, 15, 6
+ */
+
 import java.util.Arrays;
 
 public class ArrangeArray {

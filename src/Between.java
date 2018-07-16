@@ -1,3 +1,7 @@
+/**
+ * Print even numbers between two numbers.
+ */
+
 import java.util.Scanner;
 
 public class Between {

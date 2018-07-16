@@ -1,3 +1,7 @@
+/**
+ * Swap two numbers without using third variable and '+' operator.
+ */
+
 public class Swap {
     public static void main(String[] args){
         int a,b;
