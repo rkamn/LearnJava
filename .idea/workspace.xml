@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384b08a4-e7e6-4cea-8ff8-b7fa90143a31" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CallStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,41 +24,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExchangeRow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExchangeRow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="272">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+                <element signature="e#1033#1034#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CallStock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CallStock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -145,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallStock">
+  <component name="RunManager" selected="Application.Employee">
     <configuration name="ArrayRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayRange" />
       <module name="Wipro" />
@@ -153,6 +126,11 @@
     </configuration>
     <configuration name="CallStock" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CallStock" />
+      <module name="Wipro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee" />
       <module name="Wipro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -218,9 +196,11 @@
       <item itemvalue="Application.ExchangeRow" />
       <item itemvalue="Application.Stock" />
       <item itemvalue="Application.Sum2D" />
+      <item itemvalue="Application.Employee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Stock" />
         <item itemvalue="Application.ExchangeRow" />
         <item itemvalue="Application.Sum2D" />
@@ -274,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531792183465</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding new program Stock">
+      <created>1531804357711</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531804357711</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -343,7 +330,8 @@
     <MESSAGE value="Adding new program ArrayRange" />
     <MESSAGE value="Adding new program Sum2D" />
     <MESSAGE value="Adding new program ExchangeRow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new program ExchangeRow" />
+    <MESSAGE value="Adding new program Stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new program Stock" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Wipro.iml">
@@ -560,10 +548,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="272">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
           </folding>
         </state>
       </provider>

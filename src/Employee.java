@@ -18,13 +18,17 @@ public class Employee {
         System.out.println("Employee id: ");
         EmployeeId = s.nextInt();
         System.out.println("Employee name: ");
-        EmployeeName = s.next();
+        EmployeeName = s.nextLine();
         System.out.println(EmployeeName);
-        System.out.println("basic pay");
+        System.out.println("basic pay:");
         basicPay = s.nextFloat();
-        System.out.println("allowances");
+        System.out.println("allowances:");
         allowances = s.nextFloat();
-        System.out.println("deductions");
+        System.out.println("deductions:");
         deductions = s.nextFloat();
+    }
+
+    public static void main(String[] args){
+        setter();
     }
 }
