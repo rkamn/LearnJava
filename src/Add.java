@@ -1,6 +1,6 @@
 /**
  * Addition of two numbers with using '+' operator.
-  i am testning the code and learn how to fork
+  i am testning the code and learn how to fork.
 */
 
 public class Add {
